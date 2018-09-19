@@ -12,6 +12,8 @@
 
 <h4 align="center"><a href="https://slides.com/victoriabudyonnaya/html-and-css-basics">Link to the slides</a></h4>
 
+<h4 align="center"><a href="https://habr.com/company/htmlacademy/blog/254171/">Read before starting</a></h4>
+
 </br>
 <p align="center">
     <img src="https://forthebadge.com/images/badges/uses-html.svg">
